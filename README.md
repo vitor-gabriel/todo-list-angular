@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <p align="center">
   <img src="https://raw.githubusercontent.com/vitor-gabriel/todo-list-angular/master/src/assets/readme-img/window-app.png" width="800" alt="Window APP">
 </p>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
