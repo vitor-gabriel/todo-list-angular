@@ -1,7 +1,10 @@
-# AppTodo
+# To-Do List App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitor-gabriel/todo-list-angular/master/src/assets/readme-img/window-app.png" width="800" alt="Window APP">
+</p>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -13,6 +16,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## To run on TOTVS Protheus
+
+See the documentation: [TOTVS FWCallApp](https://tdn.totvs.com/display/public/framework/FwCallApp+-+Abrindo+aplicativos+Web+no+Protheus)
 
 ## Running unit tests
 
