@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { HomeRoutingModule } from './home-routing.module';
 
 // Components
 import { HeaderComponent } from './components/header/header.component';
@@ -19,6 +20,6 @@ import { FormsModule } from '@angular/forms';
     TodoListComponent,
     HomeComponent,
   ],
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, HomeRoutingModule],
 })
 export class HomeModule {}
